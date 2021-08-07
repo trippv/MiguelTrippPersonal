@@ -14,4 +14,4 @@ type: course
 
 
 
-[Accede al material del curso](https://trippv.github.io/Bioestadistica2021/) 
+[Accede al material del curso](https://trippv.github.io/BioestadisticaR/) 

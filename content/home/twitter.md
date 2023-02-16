@@ -1,7 +1,7 @@
 ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: twitter_side
+widget: pages
 
 # This file represents a page section.
 headless: false
@@ -32,3 +32,4 @@ subtitle:
 #  name = "Surfing"
 #  description = "90%"
 ---
+<div class="twitter"> <a class="twitter-timeline" data-width="600" data-height="400" href="https://twitter.com/GenomFuncCicese?ref_src=twsrc%5Etfw">Tweets by GenomFuncCicese</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div>

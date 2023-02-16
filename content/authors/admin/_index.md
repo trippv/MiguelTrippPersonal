@@ -57,6 +57,9 @@ Actualmente me encuentro realizando una estancia  posdoctoral en el Departamento
 
 {{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "uploads/MiguelTripp_CV_english.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-<div class="twitter"> <a class="twitter-timeline" data-height="400"  href="https://twitter.com/Anthony">Tweets by Anthony</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> </div>
+
+
+
+<div class="twitter"> <a class="twitter-timeline" data-width="600" data-height="400" href="https://twitter.com/GenomFuncCicese?ref_src=twsrc%5Etfw">Tweets by GenomFuncCicese</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div>
 
 

@@ -56,3 +56,6 @@ Actualmente me encuentro realizando una estancia  posdoctoral en el Departamento
 
 
 {{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "uploads/MiguelTripp_CV_english.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+
+<a class="twitter-timeline" href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw">Tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -10,18 +10,18 @@ main:
   # - name: Posts
   #   url: '#posts'
   #   weight: 20
-  - name: Proyectos
-    url: '#projects'
-    weight: 30
+  #- name: Proyectos
+  #  url: '#projects'
+  #  weight: 30
   - name: Divulgación
     url: talks/
     weight: 40
   - name: Publicaciones
-    url: '#featured'
+    url: publication/
     weight: 50
   - name: Cursos
     url: courses/
     weight: 60
-  - name: Contacto
-    url: '#contact'
-    weight: 70
+  #- name: Contacto
+  #  url: '#contact'
+  #  weight: 70

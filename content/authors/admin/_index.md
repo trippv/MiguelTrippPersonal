@@ -22,8 +22,8 @@ interests:
 - DataViz
 
 organizations:
-- name: Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California
-  url: https://www.cicese.edu.mx/
+- name: Centro de Investigaciones Biológicas del Noroeste,S.C.
+  url: https://www.cibnor.gob.mx/
 role: Posdoctoral fellow
 social:
 - icon: envelope
@@ -52,14 +52,11 @@ superuser: true
 title: Miguel A. Tripp-Valdez
 ---
 
-Actualmente me encuentro realizando una estancia  posdoctoral en el Departamento de Acuicultura del [Centro de Investigación Científica y de Educación Superior de Ensenada](https://www.cicese.edu.mx/), México, haciendo uso de datos de secuenciación masiva -RNAseq- para evaluar el desempeño de progenies hibridas de abulón ante diferentes condiciones de cultivo. Mi principal interés es utilizar de manera integrativa indicadores sistémicos, metabolómicos y genéticos para evaluar la tolerancia y capacidad de respuesta de los organismos marinos ante cambios ambientales.
+Actualmente me encuentro realizando una estancia  posdoctoral en el Programa de Acuicultura del [Centro de Investigaciones Biológicas del Noroeste](https://www.cibnor.gob.mx/), México. Mi principal interés es utilizar de manera integrativa indicadores sistémicos, metabolómicos y genéticos para evaluar la tolerancia y capacidad de respuesta de los organismos marinos ante cambios ambientales.
 
 
-{{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "uploads/MiguelTripp_CV_english.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "uploads/MiguelTripp_CV_ESP.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 
-
-
-<div class="twitter"> <a class="twitter-timeline" data-width="600" data-height="400" href="https://twitter.com/GenomFuncCicese?ref_src=twsrc%5Etfw">Tweets by GenomFuncCicese</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div>
 
 
